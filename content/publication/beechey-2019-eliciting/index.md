@@ -35,7 +35,7 @@ publication_types:
 - '2'
 abstract: '__Purpose:__
 
-The purpose of this study was to introduce a method of eliciting conversational behavior with many aspects of realism, which may be used to study the impacts of hearing impairment and noise on verbal communication; to describe the characteristics of speech and language participants produced during the task; and to assess participants' engagement and motivation while completing the task.
+The purpose of this study was to introduce a method of eliciting conversational behavior with many aspects of realism, which may be used to study the impacts of hearing impairment and noise on verbal communication; to describe the characteristics of speech and language participants produced during the task; and to assess participants'' engagement and motivation while completing the task.
 
 __Method:__
 
