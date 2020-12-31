@@ -36,11 +36,11 @@ education:
     institution: The University of Queensland
     year: 2010
   - course: MA in Linguistics
-    institution: University of Massachusetts, Amherst
+    institution: The University of Massachusetts, Amherst
     year: 2007
   - course: BA in Linguistics
-    institution: University of Melbourne
-    year: 2003
+    institution: The University of Melbourne
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
