@@ -33,7 +33,7 @@ projects: []
 publishDate: '2020-12-30T20:45:11.678385Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'This study describes the use of a novel conversation elicitation framework to collect fluent, dynamic conversational speech in simulated realistic acoustic environments of varying complexities. Our aim is to quantify speech modifications during conversation, which characterize effortful speech, as a function of the difficulty of the acoustic environment. We report speech production data at the acoustic-phonetic level (vocal level, mid-frequency emphasis, formant frequencies and formant bandwidths), as well as at higher levels of analysis including utterance duration and turn overlap durations. The sensitivity and test-retest reliability of different speech production measures to changes in acoustic environment are reported. We propose a multi-dimensional view of effortful speech modifications. Considering speech modifications across different linguistic levels provides a richer view of the effects of the acoustic environment on communication as compared with consideration of low-level acoustic-phonetic markers alone. Finally, we describe how consideration of speech modification data may form the basis of a measure of communication effort with scope for the assessment of the impacts of hearing impairment and amplification upon ease of spoken communication.'
 publication: '*Speech Communication*'
 url_pdf: http://linkinghub.elsevier.com/retrieve/pii/S0167639317302364
 doi: 10.1016/j.specom.2018.04.007

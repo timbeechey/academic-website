@@ -42,7 +42,7 @@ projects: []
 publishDate: '2020-12-30T20:45:15.201874Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Any damage within the cochlea, whether affecting hearing thresholds or high threshold nerve fibres, that affects the resolving power of the cochlear, necessitates a higher input signal-to-noise ratio to achieve normal speech understanding in noise.  Other than wireless remote microphone systems, super-directional beamformers are the most effective way to achieve this.  To optimise their performance, they should have beam widths that are neither too narrow nor too broad, attenuate off-beam signals in a way that preserves spatial awareness of the environment, and adapt to changing competing signals fast enough to suppress them but not so fast as to distort the target signal.  This paper reports on the advantages and limitations of super-directional beamformers as measured in six different experiments.'
 publication: '*Proceedings of the International Symposium on Auditory and Audiological
   Research*'
 url_pdf: https://proceedings.isaar.eu/index.php/isaarproc/article/view/2015-24

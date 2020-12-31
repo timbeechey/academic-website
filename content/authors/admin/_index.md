@@ -18,10 +18,13 @@ bio: My research interests include the interaction of hearing impairment and spe
 
 # Interests to show in About widget
 interests:
-- Hearing impairment
-- Speech perception
-- Conversation
-- Person-centred care and family-centred care
+- Hearing impairment and hearing rehabilitation, including hearing aids and cochlear implants
+- Speech perception and aging
+- Speech production, disfluencies and Lombard speech
+- Conversation and communication strategies
+- Cognitive and physical effort in commuication
+- Third-party disability
+- Person-centred and family centred care
 
 # Education to show in About widget
 education:
@@ -72,7 +75,7 @@ email: "tbeechey@umn.edu"
 highlight_name: true
 ---
 
-Timothy Beechey is currently a postdoctoral associate in the Department of Speech-Language-Hearing Sciences at the University of Minnesota, Twin Cities. The main theme of his research is the effect of hearing impairment on speech perception, particularly 
+I am currently a postdoctoral associate in the Department of Speech-Language-Hearing Sciences at the University of Minnesota, Twin Cities. The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with aging. I am particularly interested in questions around perception of conversational speech in adverse conditions, and the strategies people employ to overcome pereptual difficulties. My research draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
 
 
 
