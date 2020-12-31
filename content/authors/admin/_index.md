@@ -75,7 +75,7 @@ email: "tbeechey@umn.edu"
 highlight_name: true
 ---
 
-I am currently a postdoctoral associate in the Department of Speech-Language-Hearing Sciences at the University of Minnesota, Twin Cities. The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with aging. I am particularly interested in questions around perception of conversational speech in adverse conditions, and the strategies people employ to overcome pereptual difficulties. My research draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
+I am currently a postdoctoral associate in the Department of Speech-Language-Hearing Sciences at the University of Minnesota, Twin Cities. The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with aging. I am particularly interested in questions around perception of conversational speech in adverse conditions, and the strategies people employ to overcome pereptual difficulties. My research is informed by my background in both formal linguistics and clinical audiology and also draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
 
 
 
