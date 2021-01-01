@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Audiology
+  - course: PhD in Linguistics/Audiology
     institution: Macquarie University
     year: 2019
   - course: Master of Audiology Studies
