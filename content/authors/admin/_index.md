@@ -22,7 +22,7 @@ interests:
 - Speech perception and aging
 - Speech production, disfluencies and Lombard speech
 - Conversation and communication strategies
-- Cognitive and physical effort in commuication
+- Cognitive and physical effort in communication
 - Third-party disability
 - Person-centred and family centred care
 
