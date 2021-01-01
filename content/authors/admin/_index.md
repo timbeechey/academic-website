@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Audiology
     institution: Macquarie University
-    year: 2018
+    year: 2019
   - course: Master of Audiology Studies
     institution: The University of Queensland
     year: 2010
@@ -40,7 +40,7 @@ education:
     year: 2007
   - course: BA in Linguistics
     institution: The University of Melbourne
-    year: 2002
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
