@@ -6,12 +6,12 @@ title: Timothy Beechey
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Minnesota, Twin Cities
-  url: https://www.umn.edu/
+- name: University of Nottingham
+  url: https://www.nottingham.ac.uk/research/groups/hearingsciences/hearing-sciences-scottish-section.aspx
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the interaction of hearing impairment and speech perception, especially in relation to interactive communication.
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tbeechey@umn.edu
+  link: mailto:tim.beechey@nottingham.ac.uk
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8858-946X
