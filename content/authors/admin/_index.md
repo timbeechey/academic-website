@@ -78,7 +78,7 @@ email: "tbeechey@umn.edu"
 highlight_name: true
 ---
 
-I am a research fellow in Hearing Sciences, Scottish Section at The University of Nottingham. The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with noise and aging. I am particularly interested in questions related to perception of conversational speech in adverse conditions, and the strategies people employ to overcome perceptual difficulties. My research is informed by my background in both formal linguistics and clinical audiology and also draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
+I am a [Medical Research Foundation](https://www.medicalresearchfoundation.org.uk/news/improving-the-lives-of-people-with-hearing-loss-or-tinnitus) Fellow in Hearing Sciences, Scottish Section at The University of Nottingham. The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with noise and aging. I am particularly interested in questions related to perception of conversational speech in during dynamic, interactive communicatios, and the strategies people employ to overcome communication difficulties. My research is informed by my background in both formal linguistics and clinical audiology and also draws on post-cognitivist theories of cognition, ecological theories of perception, cybernetics and system dynamics.
 
 
 
