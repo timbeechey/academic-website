@@ -50,6 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:tim.beechey@nottingham.ac.uk
+- icon: twitter
+- icon_pack:fas
+- link: https://twitter.com/timothybeechey
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8858-946X
@@ -72,13 +75,13 @@ social:
 #  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tbeechey@umn.edu"
+email: "tim.beechey@nottingham.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a [Medical Research Foundation](https://www.medicalresearchfoundation.org.uk/news/improving-the-lives-of-people-with-hearing-loss-or-tinnitus) Fellow in [Hearing Sciences](https://www.nottingham.ac.uk/research/groups/hearingsciences/index.aspx), [Scottish Section](https://www.nottingham.ac.uk/research/groups/hearingsciences/hearing-sciences-scottish-section.aspx) at [The University of Nottingham](https://www.nottingham.ac.uk/). The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with noise and aging. I am particularly interested in questions related to perception of conversational speech in during dynamic, interactive communicatios, and the strategies people employ to overcome communication difficulties. My research is informed by my background in both formal linguistics and clinical audiology and also draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
+I am a [Medical Research Foundation](https://www.medicalresearchfoundation.org.uk/news/improving-the-lives-of-people-with-hearing-loss-or-tinnitus) Fellow in [Hearing Sciences](https://www.nottingham.ac.uk/research/groups/hearingsciences/index.aspx), [Scottish Section](https://www.nottingham.ac.uk/research/groups/hearingsciences/hearing-sciences-scottish-section.aspx) at [The University of Nottingham](https://www.nottingham.ac.uk/). The main theme of my research is the effect of hearing impairment on speech perception and how this may interact with noise and aging. I am particularly interested in questions related to perception of conversational speech during dynamic, interactive communication, the strategies people may employ to overcome communication difficulties, and factors affecting individual's capacity and willingness to use such strategies. My research is informed by my background in both formal linguistics and clinical audiology and also draws on post-cognitivist theories of cognition, ecological theories of perception, and system dynamics.
 
 
 
