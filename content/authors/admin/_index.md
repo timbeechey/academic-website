@@ -51,8 +51,8 @@ social:
   icon_pack: fas
   link: mailto:tim.beechey@nottingham.ac.uk
 - icon: twitter
-- icon_pack:fas
-- link: https://twitter.com/timothybeechey
+  icon_pack:fas
+  link: https://twitter.com/timothybeechey
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8858-946X
