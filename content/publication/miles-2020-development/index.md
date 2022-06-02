@@ -11,7 +11,7 @@ authors:
 - Timothy Beechey
 - Virginia Best
 - Jörg M. Buchholz
-tags: []
+tags: [speech intelligibility, conversational speech]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-30T13:44:41-06:00

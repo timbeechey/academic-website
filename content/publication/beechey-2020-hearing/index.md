@@ -8,7 +8,7 @@ authors:
 - Timothy Beechey
 - Jörg M. Buchholz
 - Gitte Keidser
-tags: []
+tags: [conversation, communication effort, hearing impairment, speech production]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-30T13:44:38-06:00

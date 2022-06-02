@@ -12,7 +12,7 @@ authors:
 - James Galloway
 - Timothy Beechey
 - Gitte Keidser
-tags: []
+tags: [virtual acoustic environments]
 categories: []
 date: '2019-01-01'
 lastmod: 2020-12-30T14:29:13-06:00

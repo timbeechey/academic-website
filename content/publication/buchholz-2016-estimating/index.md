@@ -11,7 +11,7 @@ authors:
 - James Galloway
 - Gitte Keidser
 - Katrina Freeston
-tags: []
+tags: [Lombard speech, virtual acoustic environments, vocal level]
 categories: []
 date: '2016-01-01'
 lastmod: 2020-12-30T13:44:39-06:00
